@@ -2,5 +2,5 @@
 From consol/tomcat-7.0
 
 # Maintainer
-MAINTAINER "rajusw804@gmail.com"
+MAINTAINER "dekkaravikumar2o@gmail.com"
 COPY target/*.war /opt/tomcat/webapps
